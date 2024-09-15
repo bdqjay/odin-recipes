@@ -1,0 +1,30 @@
+h1 {
+    background-color: #00ffff;
+    text-align: center;
+}
+
+h2 {
+    color: #8a2be2;
+    text-decoration-line: underline;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul.recipe-page {
+    color: palevioletred;
+}
+
+ol {
+    color: hsl(0, 70%, 52%)
+}
+
+img {
+    height: 400px;
+    width: 500px;
+}
+
+ul.home {
+    color: #53ee16;
+}
